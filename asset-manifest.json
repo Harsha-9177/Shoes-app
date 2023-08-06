@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shoes-app/static/css/main.5f5e5a53.css",
+    "main.js": "/Shoes-app/static/js/main.5af2774a.js",
+    "index.html": "/Shoes-app/index.html",
+    "main.5f5e5a53.css.map": "/Shoes-app/static/css/main.5f5e5a53.css.map",
+    "main.5af2774a.js.map": "/Shoes-app/static/js/main.5af2774a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f5e5a53.css",
+    "static/js/main.5af2774a.js"
+  ]
+}
